@@ -5,7 +5,7 @@ const Footer = () => {
    <>
     <footer>
         <div>
-            <h1>MasyMan</h1>
+            <h1>MasyStar</h1>
             <p>All &copy; Copyright reserved for 2023 </p>
         </div>
 
